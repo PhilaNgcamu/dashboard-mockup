@@ -1,0 +1,90 @@
+{
+  "javascriptProjects": [
+    {
+      "id": 1,
+      "title": "Tilde Mockups",
+      "assignee": "philasande.ngcamu@gmail.com",
+      "email": "raees.dolley@gmail.com",
+      "date": "2023-06-19",
+      "time": "10:00 AM"
+    },
+    {
+      "id": 2,
+      "title": "Intro to Redux for home automation: The basics",
+      "assignee": "jane.doe@gmail.com",
+      "email": "ndzalama.mabasa@gmail.com",
+      "date": "2023-06-20",
+      "time": "10:00 AM"
+    },
+    {
+      "id": 3,
+      "title": "Build responsive website using React",
+      "assignee": "phil.doe@gmail.com",
+      "email": "jordan.beaumont@gmail.com",
+      "date": "2023-06-21",
+      "time": "10:00 AM"
+    }
+  ],
+  "pythonProjects": [
+    {
+      "id": 1,
+      "title": "Build Web Apps Using Django",
+      "assignee": "user.name@gmail.com",
+      "date": "2023-06-20",
+      "time": "10:00 AM"
+    },
+    {
+      "id": 2,
+      "title": "CRUD Basics",
+      "assignee": "jill.doe@gmail.com",
+      "date": "2023-06-21",
+      "time": "10:00 AM"
+    },
+    {
+      "id": 3,
+      "title": "Web Development Using Python",
+      "assignee": "phil.doe@gmail.com",
+      "date": "2023-06-20",
+      "time": "10:00 AM"
+    }
+  ],
+  "developers": [
+    {
+      "assignee": "philasande.ngcamu@gmail.com",
+      "reviewers": [
+        { "id": 1, "name": "jordan.beaumont@gmail.com" },
+        { "id": 2, "name": "ndzalama.mabasa@gmail.com" },
+        { "id": 3, "name": "raees.dolley@gmail.com" }
+      ],
+      "projectName": "Tilde Mockups",
+      "language": "React"
+    }
+  ],
+  "reviewers": [
+    {
+      "id": 1,
+      "name": "Ndzalama Mabasa",
+      "title": "Competent",
+      "description": "This is good stuff",
+      "email": "ndzalama.mabasa@gmail.com",
+      "accuracy": 86
+    },
+    {
+      "id": 2,
+      "name": "Raees Dolley",
+      "title": "Competent",
+      "description": "Good Work",
+      "email": "raees.dolley@gmail.com",
+      "accuracy": 84
+    },
+
+    {
+      "id": 3,
+      "name": "Jordan Beaumont",
+      "title": "Competent",
+      "description": "Nice Work",
+      "email": "jordan.beaumont@gmail.com",
+      "accuracy": 82
+    }
+  ]
+}
